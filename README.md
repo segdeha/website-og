@@ -1,3 +1,11 @@
+# DEPRECATED
+
+New source for the website lives at [github.com/the-collab-lab/website](https://github.com/the-collab-lab/website).
+
+Want to contribute? Check [the issues tab](https://github.com/the-collab-lab/website/issues) for what needs to be done!
+
+---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d419806f-0315-41c6-917a-52167ab9902c/deploy-status)](https://app.netlify.com/sites/the-collab-lab/deploys)
 
 # 🖥 The Collab Lab Website
